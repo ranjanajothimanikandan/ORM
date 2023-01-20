@@ -47,7 +47,7 @@ admin.site.register(Employee,EmployeeAdmin)
 
 ## OUTPUT
 
-![OUTPUT](./tab)
+![OUTPUT](./tab.jpg)
 
 ## RESULT
 
