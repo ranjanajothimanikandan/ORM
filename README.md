@@ -47,7 +47,7 @@ admin.site.register(Employee,EmployeeAdmin)
 
 ## OUTPUT
 
-![OUTPUT](./ORM ex-2.jpg)
+![OUTPUT](./ORMex-2.jpg)
 
 ## RESULT
 
